@@ -1,5 +1,13 @@
+大家好，我是 Gopal。Shopee 高级前端开发。掘金 LV6 作者。专注前端分享，不止于前端。
 
 [![Gopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=GpingFeng&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+我运营了公众号[「前端杂货铺」](https://user-images.githubusercontent.com/20135760/185728934-b89103a5-e3ee-4c9f-819e-7fffd5c72f73.png)，专注于前端，不止于前端。
+
+
+
+<img width=200 src="https://user-images.githubusercontent.com/20135760/185728985-766e3732-7b78-4119-b7a6-a81eb05d5cbb.jpg">
 
 <!--
 **GpingFeng/GpingFeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
