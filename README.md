@@ -26,7 +26,7 @@
 [![Gopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=GpingFeng&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-我运营了公众号[「前端杂货铺」](https://user-images.githubusercontent.com/20135760/185728934-b89103a5-e3ee-4c9f-819e-7fffd5c72f73.png)，专注于前端，不止于前端。
+我运营了公众号[「前端杂货铺」](https://user-images.githubusercontent.com/20135760/185728934-b89103a5-e3ee-4c9f-819e-7fffd5c72f73.png)，有干货有温度的前端杂货铺。
 
 
 
