@@ -1,5 +1,28 @@
 大家好，我是 Gopal。Shopee 高级前端开发。掘金 LV6 作者。专注前端分享，不止于前端。
 
+
+
+<br />
+
+<a target="_blank" href="https://github.com/GpingFeng/gopal-blog">
+  <img align="left" title="Github" alt="gopal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
+</a>
+<a target="_blank" href="https://juejin.cn/user/3913917123796088">
+  <img align="left" title="掘金" alt="gopal" width="22px" src="https://github.com/chokcoco/chokcoco/blob/main/juejin.svg" />
+</a>
+<a target="_blank" href="https://www.zhihu.com/people/GpingFeng">
+  <img align="left" title="知乎" alt="gopal" width="22px" src="https://static.zhihu.com/heifetz/assets/apple-touch-icon-152.a53ae37b.png" />
+</a>
+<a target="_blank" href="https://segmentfault.com/u/fengguangping">
+  <img align="left" title="segmentfault" alt="gopal" width="22px" src="https://cdn.segmentfault.com/r-55f15136/favicon.ico" />
+</a>
+<a target="_blank" href="https://www.cnblogs.com/gopal/">
+  <img align="left" title="博客园" alt="gopal" width="22px" src="https://user-images.githubusercontent.com/20135760/183788581-5ea81bae-4f6f-4fd8-be52-cc1ff8b24969.png" />
+</a>
+<br />
+
+<br />
+
 [![Gopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=GpingFeng&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -8,6 +31,7 @@
 
 
 <img width=200 src="https://user-images.githubusercontent.com/20135760/185728985-766e3732-7b78-4119-b7a6-a81eb05d5cbb.jpg">
+
 
 <!--
 **GpingFeng/GpingFeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
