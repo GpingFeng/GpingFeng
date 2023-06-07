@@ -8,7 +8,7 @@
   <img align="left" title="Github" alt="gopal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
 <a target="_blank" href="https://juejin.cn/user/3913917123796088">
-  <img align="left" title="掘金" alt="gopal" width="22px" src="//lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" />
+  <img align="left" title="掘金" alt="gopal" width="22px" src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" />
 </a>
 <a target="_blank" href="https://www.zhihu.com/people/GpingFeng">
   <img align="left" title="知乎" alt="gopal" width="22px" src="https://static.zhihu.com/heifetz/assets/apple-touch-icon-152.a53ae37b.png" />
